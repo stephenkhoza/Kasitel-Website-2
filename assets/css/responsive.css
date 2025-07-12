@@ -1,0 +1,344 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+.hero-content h3 {
+    font-size: 27px;
+    
+}
+.client-wrapper li img {
+    padding: 2px 9px;
+}
+.location h3 {
+    font-size: 20px;
+}
+.widget-mail span a i.fa {
+    right: 2px;
+    margin-top: -18px;
+}
+.location-con {
+    font-size: 12px;
+}
+
+.pointer-img {
+    margin-top: -147px;
+}
+
+
+.widget-mail input {
+    width: 106%;
+}
+
+
+.hero-area-home-4 .owl-prev ,.hero-area-home-4 .owl-next {
+    left: 100px;
+}
+
+.hero-area-home-4 .owl-next {
+    right: 100px;
+    left: auto;
+}
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+.about-bg img {
+    width: 100%;
+}
+
+.hero-content h3 {
+    font-size: 28px;
+}
+
+.hero-content h1 {
+    font-size: 32px;
+}
+.hero-content p {
+    font-size: 15px;
+}
+
+.client-wrapper li img {
+    padding: 14px 3px;
+}
+
+.item-content-wrap {
+    padding-bottom: 40px;
+}
+
+.img-wrap {
+    border-top-right-radius: 130px;
+    border-bottom-left-radius: 130px;
+}
+
+.about-content h2 {
+    font-size: 32px;
+
+}
+
+.blog-wrap:hover {
+    transform: translate(0, -15px);
+}
+
+.blog-wrap {
+    margin-bottom: 30px;
+}
+
+.contact-form-wrap {
+    width: 100%;
+
+
+}
+
+.location-con {
+    font-size: 12px;
+}
+
+.location {
+    width: 46%;
+    margin-top: 10px;
+}
+
+.location h3 {
+    padding-top: 0;
+    font-size: 20px;
+}
+
+.location ul{
+    padding-bottom: 0;
+}
+
+
+.map-img-area {
+    margin-top: -16px;
+}
+
+
+.hero-area-home-4 .owl-prev ,.hero-area-home-4 .owl-next {
+    left: 300px;
+    top: 87%
+}
+
+.hero-area-home-4 .owl-next {
+    right: 300px;
+    left: auto;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+.social-links li a {
+    font-size: 12px;
+}
+
+.social-mail {
+    font-size: 10px;
+}
+
+.work-heading h2 {
+    font-size: 25px;
+}
+
+.work-btn{
+    font-size: 12px;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.hero-content h3 {
+    font-size: 16px;
+}
+.hero-content h1 {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 29px;
+}
+.hero-content p {
+    font-size: 12px;
+}
+
+.hero-btn{
+    font-size: 14px;
+}
+
+.social-links li a {
+    padding: 4px;
+}
+
+.client-wrapper li img {
+    padding: 14px 4px;
+}
+
+.item-content-wrap {
+    padding-bottom: 40px;
+}
+
+.img-wrap {
+    border-top-right-radius: 83px;
+    border-bottom-left-radius: 83px;
+}
+
+.about-content h2 {
+    font-size: 34px;
+}
+
+.blog-wrap:hover {
+    transform: translate(0, -10px);
+}
+
+.blog-wrap {
+    margin-bottom: 30px;
+}
+
+.contact-form-wrap {
+    width: 100%;
+}
+
+.location {
+    margin-top: 5px;
+}
+
+.location h3 {
+    padding-top: 0px;
+    font-size: 18px;
+}
+
+.location-con {
+    font-size: 13px;
+}
+.location i.fa {
+    font-size: 18px;
+}
+
+.location ul {
+    padding-bottom: 0px;
+}
+
+.map-img-area {
+    margin-top: -15px;
+}
+
+.pointer-img {
+    right: 45%;
+    margin-top: -132px;
+}
+
+
+.hero-area-home-4 .owl-prev ,.hero-area-home-4 .owl-next {
+    top: 80%;
+}
+
+
+}
+
+
+
+
+
+
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+
+
+}
+
+
+
+
+/* Tablet & Mobile Layout: 768px. */
+@media only screen and (max-width: 991px) { 
+
+.item-right-img {
+    text-align: center;
+}
+
+.right-item-box {
+    text-align: center;
+}
+.mainmenu {
+    display: none !important;
+}
+
+.slicknav_menu{
+    display: block;
+}
+
+
+#mobile-menu-wrap {
+    right: 0;
+    top: -41px;
+    position: absolute;
+    z-index: 2;
+}
+
+.slicknav_menu .slicknav_menutxt {
+    display: none;
+}
+
+.slicknav_menu {
+    background: none;
+}
+
+.slicknav_btn {
+    background: none;
+}
+
+.slicknav_menu .slicknav_icon-bar {
+    color: #038FDA;
+}
+
+.slicknav_menu .slicknav_btn span.slicknav_icon-bar {background: #FFFF;text-shadow: 0 0 0;}
+
+.sticky .slicknav_menu .slicknav_btn span.slicknav_icon-bar {
+    background: #fff;
+}
+
+.slicknav_menu a.slicknav_btn {
+    background: none;
+    margin: 2px;
+}
+
+.slicknav_nav {
+    width: 188px;
+    background: #265F52;
+    margin-right: 10px;
+}
+
+.slicknav_nav .slicknav_row, .slicknav_nav a {
+    padding: 10px;
+    margin: 0;
+}
+
+.slicknav_nav a{
+    transition: .3s
+}
+
+.slicknav_nav a:hover {
+    background: #F5C542;
+    border-radius: 0;
+    margin: 0;
+}
+
+.widget-mail input {
+    width: 50%;
+}
+
+    
+}
+
+
+
